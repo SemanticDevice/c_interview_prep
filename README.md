@@ -16,6 +16,9 @@ Code associated with preparation to a job interview for a C developer
 - Find bugs in a code snippet
 - Bit manipulation
 - Endianness
+- Interrupts
+  - Find bugs in interrupt handler
+  - Priority inversion
 
 ## Resources
 
