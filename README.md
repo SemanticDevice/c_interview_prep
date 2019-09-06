@@ -14,6 +14,8 @@ Code associated with preparation to a job interview for a C developer
 - State machines
 - Data structures
 - Find bugs in a code snippet
+- Bit manipulation
+- Endianness
 
 ## Resources
 
