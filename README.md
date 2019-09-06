@@ -1,6 +1,10 @@
 # C Interview Prep
 Code associated with preparation to a job interview for a C developer
 
+## Topics Covered
+
+```struct_pad.c``` Structure padding, memory alignment and packing.
+
 ## Topics to Cover
 
 - Preprocessor
