@@ -19,6 +19,9 @@ Code associated with preparation to a job interview for a C developer
 - Interrupts
   - Find bugs in interrupt handler
   - Priority inversion
+- Heap and stack
+- Arrays vs. pointers
+- Sleeping barber problem
 
 ## Resources
 
