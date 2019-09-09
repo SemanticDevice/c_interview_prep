@@ -7,9 +7,12 @@ Code associated with preparation to a job interview for a C developer
 
 ## Topics to Cover
 
+- time comlexity and big-O notation
 - Preprocessor
+  - parameterized macros
   - x macros
 - Concurrency
+  - Thread safety
   - Semaphors/mutexes
 - State machines
 - Data structures
@@ -17,6 +20,7 @@ Code associated with preparation to a job interview for a C developer
 - Bit manipulation
 - Endianness
 - Interrupts
+  - Signals
   - Find bugs in interrupt handler
   - Priority inversion
 - Heap and stack
