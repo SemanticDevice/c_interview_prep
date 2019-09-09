@@ -26,6 +26,15 @@ Code associated with preparation to a job interview for a C developer
 - Heap and stack
 - Arrays vs. pointers
 - Sleeping barber problem
+- Interprocess communication in Linux:
+  - shared file
+  - share memory space
+  - pipes (named and unnamed)
+  - message queues
+  - sockets
+  - signals
+  
+  
 
 ## Resources
 
