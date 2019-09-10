@@ -7,6 +7,10 @@ Code associated with preparation to a job interview for a C developer
 
 ## Topics to Cover
 
+- what does const mean and what is its use?
+  - "const int * p" vs "int * const p"
+- what does static mean and what is its use?
+- what does volatile mean and what is its use?
 - time comlexity and big-O notation
 - Preprocessor
   - parameterized macros
@@ -27,9 +31,9 @@ Code associated with preparation to a job interview for a C developer
 - Arrays vs. pointers
 - Sleeping barber problem
 - Interprocess communication in Linux:
-  - shared file
-  - share memory space
-  - pipes (named and unnamed)
+  - shared file and file locking
+  - shared memory space and semaphore locking
+  - pipes (i.e. a FIFO)
   - message queues
   - sockets
   - signals
@@ -39,4 +43,5 @@ Code associated with preparation to a job interview for a C developer
 ## Resources
 
 - https://natecraun.net/articles/struct-iteration-through-abuse-of-the-c-preprocessor.html
+- https://aticleworld.com/embedded-c-interview-questions-2/
 
